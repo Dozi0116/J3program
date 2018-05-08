@@ -1,0 +1,503 @@
+h = SIZE / 1
+finish!
+average compare => 864
+average exchange => 412
+
+h = SIZE / 2
+finish!
+average compare => 864
+average exchange => 412
+
+h = SIZE / 3
+finish!
+average compare => 901
+average exchange => 411
+
+h = SIZE / 4
+finish!
+average compare => 841
+average exchange => 428
+
+h = SIZE / 5
+finish!
+average compare => 884
+average exchange => 457
+
+h = SIZE / 6
+finish!
+average compare => 972
+average exchange => 533
+
+h = SIZE / 7
+finish!
+average compare => 803
+average exchange => 458
+
+h = SIZE / 8
+finish!
+average compare => 937
+average exchange => 585
+
+h = SIZE / 9
+finish!
+average compare => 821
+average exchange => 466
+
+h = SIZE / 10
+finish!
+average compare => 889
+average exchange => 531
+
+h = SIZE / 11
+finish!
+average compare => 859
+average exchange => 498
+
+h = SIZE / 12
+finish!
+average compare => 998
+average exchange => 633
+
+h = SIZE / 13
+finish!
+average compare => 849
+average exchange => 578
+
+h = SIZE / 14
+finish!
+average compare => 849
+average exchange => 578
+
+h = SIZE / 15
+finish!
+average compare => 1005
+average exchange => 731
+
+h = SIZE / 16
+finish!
+average compare => 1005
+average exchange => 731
+
+h = SIZE / 17
+finish!
+average compare => 986
+average exchange => 709
+
+h = SIZE / 18
+finish!
+average compare => 986
+average exchange => 709
+
+h = SIZE / 19
+finish!
+average compare => 986
+average exchange => 709
+
+h = SIZE / 20
+finish!
+average compare => 986
+average exchange => 709
+
+h = SIZE / 21
+finish!
+average compare => 1148
+average exchange => 867
+
+h = SIZE / 22
+finish!
+average compare => 1148
+average exchange => 867
+
+h = SIZE / 23
+finish!
+average compare => 1148
+average exchange => 867
+
+h = SIZE / 24
+finish!
+average compare => 1148
+average exchange => 867
+
+h = SIZE / 25
+finish!
+average compare => 1148
+average exchange => 867
+
+h = SIZE / 26
+finish!
+average compare => 1248
+average exchange => 1062
+
+h = SIZE / 27
+finish!
+average compare => 1248
+average exchange => 1062
+
+h = SIZE / 28
+finish!
+average compare => 1248
+average exchange => 1062
+
+h = SIZE / 29
+finish!
+average compare => 1248
+average exchange => 1062
+
+h = SIZE / 30
+finish!
+average compare => 1248
+average exchange => 1062
+
+h = SIZE / 31
+finish!
+average compare => 1248
+average exchange => 1062
+
+h = SIZE / 32
+finish!
+average compare => 1248
+average exchange => 1062
+
+h = SIZE / 33
+finish!
+average compare => 1248
+average exchange => 1062
+
+h = SIZE / 34
+finish!
+average compare => 1576
+average exchange => 1386
+
+h = SIZE / 35
+finish!
+average compare => 1576
+average exchange => 1386
+
+h = SIZE / 36
+finish!
+average compare => 1576
+average exchange => 1386
+
+h = SIZE / 37
+finish!
+average compare => 1576
+average exchange => 1386
+
+h = SIZE / 38
+finish!
+average compare => 1576
+average exchange => 1386
+
+h = SIZE / 39
+finish!
+average compare => 1576
+average exchange => 1386
+
+h = SIZE / 40
+finish!
+average compare => 1576
+average exchange => 1386
+
+h = SIZE / 41
+finish!
+average compare => 1576
+average exchange => 1386
+
+h = SIZE / 42
+finish!
+average compare => 1576
+average exchange => 1386
+
+h = SIZE / 43
+finish!
+average compare => 1576
+average exchange => 1386
+
+h = SIZE / 44
+finish!
+average compare => 1576
+average exchange => 1386
+
+h = SIZE / 45
+finish!
+average compare => 1576
+average exchange => 1386
+
+h = SIZE / 46
+finish!
+average compare => 1576
+average exchange => 1386
+
+h = SIZE / 47
+finish!
+average compare => 1576
+average exchange => 1386
+
+h = SIZE / 48
+finish!
+average compare => 1576
+average exchange => 1386
+
+h = SIZE / 49
+finish!
+average compare => 1576
+average exchange => 1386
+
+h = SIZE / 50
+finish!
+average compare => 1576
+average exchange => 1386
+
+h = SIZE / 51
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 52
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 53
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 54
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 55
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 56
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 57
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 58
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 59
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 60
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 61
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 62
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 63
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 64
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 65
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 66
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 67
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 68
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 69
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 70
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 71
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 72
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 73
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 74
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 75
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 76
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 77
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 78
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 79
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 80
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 81
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 82
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 83
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 84
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 85
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 86
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 87
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 88
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 89
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 90
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 91
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 92
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 93
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 94
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 95
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 96
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 97
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 98
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 99
+finish!
+average compare => 2580
+average exchange => 2485
+
+h = SIZE / 100
+finish!
+average compare => 2580
+average exchange => 2485
+
+result
+min_conp => SIZE / 7, 803 count!
+min_exchange => SIZE / 3, 411 count!

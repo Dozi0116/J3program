@@ -1,0 +1,181 @@
+mino => O, L, J, S => failed...
+mino => I, Z, S, J => hold! I, S, J
+                   => hold! Z, S, J
+mino => J, S, Z, L => hold! J, Z, S
+mino => Z, L, S, O => failed...
+mino => I, O, L, Z => failed...
+mino => T, I, Z, L => hold! I, T, L
+                   => hold! I, Z, L
+                   => hold! T, I, L
+mino => Z, S, J, I => hold! S, J, I
+                   => hold! Z, J, S
+                   => hold! Z, S, J
+mino => O, Z, S, L => failed...
+mino => J, L, I, Z => failed...
+mino => O, S, Z, I => failed...
+mino => J, Z, L, S => hold! J, Z, S
+                   => hold! Z, J, S
+mino => Z, O, S, L => failed...
+mino => J, O, L, S => failed...
+mino => J, I, T, Z => hold! I, J, T
+                   => hold! I, T, J
+                   => hold! J, I, T
+                   => hold! J, T, I
+mino => Z, L, I, T => hold! L, I, T
+                   => hold! Z, I, L
+                   => hold! Z, L, I
+mino => Z, J, S, T => hold! J, S, T
+                   => hold! J, Z, S
+                   => hold! Z, J, S
+                   => hold! Z, S, J
+mino => J, S, Z, I => hold! J, Z, S
+                   => hold! S, J, I
+mino => I, Z, O, T => failed...
+mino => Z, J, O, T => failed...
+mino => J, S, L, Z => failed...
+mino => J, Z, T, O => failed...
+mino => J, I, L, Z => failed...
+mino => L, Z, J, T => failed...
+mino => I, J, O, L => hold! I, O, J
+mino => O, S, Z, L => failed...
+mino => T, O, I, S => hold! T, I, O
+                   => hold! T, I, S
+                   => hold! T, O, I
+mino => O, I, L, J => hold! I, O, J
+                   => hold! O, I, J
+mino => S, I, O, T => failed...
+mino => Z, J, I, L => hold! Z, I, L
+mino => S, J, T, L => hold! J, S, T
+mino => T, J, O, S => hold! T, J, S
+mino => I, L, Z, O => hold! I, Z, L
+mino => I, S, Z, O => failed...
+mino => O, J, T, I => hold! J, T, I
+                   => hold! O, J, I
+                   => hold! O, J, T
+mino => T, Z, O, L => failed...
+mino => T, J, L, I => hold! J, T, I
+                   => hold! T, J, I
+                   => hold! T, J, L
+                   => hold! T, L, I
+                   => hold! T, L, J
+mino => J, I, S, O => hold! I, S, J
+mino => I, T, Z, J => hold! I, T, J
+                   => hold! T, I, J
+mino => J, Z, I, O => failed...
+mino => T, S, O, J => hold! T, S, J
+mino => L, Z, S, O => failed...
+mino => J, Z, O, T => failed...
+mino => Z, T, O, L => failed...
+mino => O, Z, L, I => hold! Z, L, I
+mino => T, O, J, I => hold! O, J, I
+                   => hold! O, J, T
+                   => hold! T, J, I
+                   => hold! T, O, I
+mino => S, L, I, Z => failed...
+mino => Z, I, L, T => hold! I, Z, L
+                   => hold! Z, I, L
+                   => hold! Z, L, I
+mino => O, T, J, L => hold! O, J, T
+                   => hold! T, J, L
+mino => S, Z, J, L => hold! Z, J, S
+                   => hold! Z, S, J
+mino => S, O, I, T => failed...
+mino => L, T, I, Z => hold! L, I, T
+                   => hold! L, T, I
+                   => hold! T, I, L
+                   => hold! T, L, I
+mino => T, J, I, O => hold! J, I, T
+                   => hold! J, T, I
+                   => hold! T, I, J
+                   => hold! T, I, O
+                   => hold! T, J, I
+mino => L, O, S, J => failed...
+mino => S, O, T, J => failed...
+mino => O, Z, J, I => hold! O, J, I
+mino => J, S, Z, T => hold! J, S, T
+                   => hold! J, Z, S
+mino => T, J, S, L => hold! J, S, T
+                   => hold! T, J, L
+                   => hold! T, J, S
+                   => hold! T, S, J
+mino => S, Z, I, O => failed...
+mino => O, L, I, T => hold! L, I, T
+mino => T, S, Z, J => hold! T, S, J
+                   => hold! T, S, Z
+                   => hold! T, Z, S
+mino => I, O, T, S => hold! I, T, O
+                   => hold! I, T, S
+mino => T, J, O, I => hold! J, T, I
+                   => hold! T, J, I
+                   => hold! T, O, I
+mino => I, T, L, Z => hold! I, T, L
+                   => hold! T, I, L
+                   => hold! T, L, I
+mino => O, L, J, T => hold! O, J, T
+mino => J, L, I, S => failed...
+mino => T, I, Z, J => hold! I, T, J
+                   => hold! T, I, J
+mino => J, S, T, Z => hold! J, S, T
+mino => S, L, Z, O => failed...
+mino => O, L, T, J => failed...
+mino => Z, S, T, O => failed...
+mino => I, S, O, Z => failed...
+mino => Z, O, I, J => hold! O, I, J
+mino => T, L, O, Z => failed...
+mino => J, I, T, L => hold! I, J, T
+                   => hold! I, T, J
+                   => hold! I, T, L
+                   => hold! J, I, T
+                   => hold! J, T, I
+mino => I, J, L, T => hold! I, J, T
+                   => hold! J, I, T
+mino => J, L, Z, O => failed...
+mino => S, O, T, Z => failed...
+mino => S, Z, L, I => hold! Z, L, I
+mino => L, T, O, I => hold! L, T, I
+                   => hold! T, L, I
+                   => hold! T, O, I
+mino => I, J, L, O => failed...
+mino => I, J, T, O => hold! I, J, T
+                   => hold! I, T, J
+                   => hold! I, T, O
+                   => hold! J, I, T
+                   => hold! J, T, I
+mino => O, T, S, I => hold! T, O, I
+mino => J, I, S, T => hold! I, J, T
+                   => hold! I, S, J
+                   => hold! J, I, T
+                   => hold! J, S, T
+mino => J, I, T, Z => hold! I, J, T
+                   => hold! I, T, J
+                   => hold! J, I, T
+                   => hold! J, T, I
+mino => O, S, J, T => hold! O, J, T
+mino => J, Z, L, S => hold! J, Z, S
+                   => hold! Z, J, S
+mino => T, J, S, Z => hold! J, S, T
+                   => hold! T, J, S
+                   => hold! T, S, J
+                   => hold! T, S, Z
+mino => O, L, Z, T => failed...
+mino => L, J, I, S => failed...
+mino => J, O, I, Z => hold! O, I, J
+                   => hold! O, J, I
+mino => Z, L, I, J => hold! Z, I, L
+                   => hold! Z, L, I
+mino => T, O, S, Z => hold! T, S, Z
+mino => J, O, L, Z => failed...
+mino => I, T, O, S => hold! I, T, O
+                   => hold! I, T, S
+                   => hold! T, I, O
+                   => hold! T, I, S
+                   => hold! T, O, I
+mino => O, Z, S, T => failed...
+mino => O, S, L, J => failed...
+mino => I, L, O, Z => failed...
+mino => J, S, I, Z => hold! S, I, J
+                   => hold! S, J, I
+mino => S, L, I, O => failed...
+mino => Z, L, O, S => failed...
+success : 56
+failed : 44
